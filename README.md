@@ -7,4 +7,4 @@ Test Repository for REST API
 
 ## Type 2
 
-** Test3 **
+**Test3**
