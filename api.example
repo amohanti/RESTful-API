@@ -1,6 +1,6 @@
 #%RAML 1.0
 title: customer-api-deloitte
-baseUri: https://mocksvc.mulesoft.com/mocks/3e98adc5-fb5e-4bd1-80b5-f37221fabf36/api/v1 # baseUri: http://example.com/api/v1
+baseUri: http://example.com/api/v1
 
 
 /customers:
